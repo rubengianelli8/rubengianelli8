@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubengianelli8&hide=contribs,prs,issues&show_icons=true&theme=radical&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubengianelli8&hide=contribs,prs,issues&show_icons=true&theme=radical&show_owner=true&lang_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
